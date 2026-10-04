@@ -20,3 +20,9 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 35 | 4 | 16 | 15 |
 
+## Related files
+
+- `index.html`
+- `postcss.config.js`
+- `vite.config.js`
+
