@@ -14,3 +14,9 @@ Source: `tailwind.config.js` (35 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 35 | 4 | 16 | 15 |
+
